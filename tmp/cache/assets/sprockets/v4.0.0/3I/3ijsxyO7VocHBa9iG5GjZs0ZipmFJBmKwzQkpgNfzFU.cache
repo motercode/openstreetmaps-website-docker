@@ -1,0 +1,61 @@
+{:uriI"Öfile://vendor/assets/iD/iD/locales/pap.json?type=application/json&id=a7e6ab0dbf682476ef2b2fad70085c7fa3d809d9bc57129fed05a91de643c7e4:ET:load_pathI"vendor/assets/iD;T:filenameI")vendor/assets/iD/iD/locales/pap.json;T:	nameI"iD/locales/pap;T:logical_pathI"iD/locales/pap.json;T:content_typeI"application/json;T:sourceI"S{
+    "pap": {
+        "icons": {
+            "copy": "kopia",
+            "favorite": "favor√≠"
+        },
+        "toolbar": {
+            "inspect": "inspekt√°",
+            "recent": "Fresku",
+            "add_feature": "Agreg√° feature"
+        },
+        "modes": {
+            "add_area": {
+                "title": "√Årea"
+            },
+            "add_point": {
+                "title": "Punto",
+                "filter_tooltip": "puntia"
+            }
+        },
+        "geometry": {
+            "point": "punto"
+        },
+        "feature": {
+            "points": {
+                "description": "Puntia",
+                "tooltip": "Puntia di interes"
+            }
+        },
+        "help": {
+            "points": {
+                "add_point_h": "A√±ad√≠ puntia",
+                "move_point_h": "Muf puntia"
+            }
+        },
+        "presets": {
+            "fields": {
+                "address": {
+                    "label": "Adr√®s"
+                },
+                "website": {
+                    "label": "W√®psait"
+                }
+            },
+            "presets": {
+                "address": {
+                    "name": "Adr√®s"
+                }
+            }
+        },
+        "imagery": {
+            "OSM_Inspector-Addresses": {
+                "name": "OSM Inspector: Adrei"
+            }
+        }
+    }
+};T:metadata{
+:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"7file-digest://vendor/assets/iD/iD/locales/pap.json;TTF:charsetI"
+utf-8;F:digest"%ñ	u5™6Ω®ÖÜˆò≠˛ŸKÆˆÃO®ï¡ûA2\—÷:lengthiS:environment_versionI"1.0;T:dependencies_digest"%U'À_XﬁL‘ÓæOﬁ‘Ëyπz 8ëb¬ß≤Bd:idI"Ea7e6ab0dbf682476ef2b2fad70085c7fa3d809d9bc57129fed05a91de643c7e4;F

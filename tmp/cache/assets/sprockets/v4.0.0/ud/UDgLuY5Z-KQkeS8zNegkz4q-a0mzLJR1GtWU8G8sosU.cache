@@ -1,0 +1,31 @@
+{:uriI"Öfile://vendor/assets/iD/iD/locales/lij.json?type=application/json&id=b9866d941b6ea40af0dc16394b930c1a0e598a8333aa720e81e21bc7ad017de7:ET:load_pathI"vendor/assets/iD;T:filenameI")vendor/assets/iD/iD/locales/lij.json;T:	nameI"iD/locales/lij;T:logical_pathI"iD/locales/lij.json;T:content_typeI"application/json;T:sourceI"Í{
+    "lij": {
+        "intro": {
+            "graph": {
+                "block_number": "<value for addr:block_number>",
+                "county": "<value for addr:county>",
+                "district": "<value for addr:district>",
+                "hamlet": "<value for addr:hamlet>",
+                "neighbourhood": "<value for addr:neighbourhood>",
+                "province": "<value for addr:province>",
+                "quarter": "<value for addr:quarter>",
+                "state": "<value for addr:state>",
+                "subdistrict": "<value for addr:subdistrict>",
+                "suburb": "<value for addr:suburb>",
+                "countrycode": "it"
+            },
+            "lines": {
+                "title": "Righe"
+            },
+            "startediting": {
+                "title": "T√†ca a Mudific√†",
+                "save": "Nu te scurd√† de sarv√† regularm√®nte e tou mudifiche!",
+                "start": "Cum√®nsa a disegn√† a tou m√†pa!"
+            }
+        }
+    }
+};T:metadata{
+:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"7file-digest://vendor/assets/iD/iD/locales/lij.json;TTF:charsetI"
+utf-8;F:digest"%Aù¨gé¢*√OÒr∑0}ãæ˜Ç»âJ3˙ªL\vh:lengthiÍ:environment_versionI"1.0;T:dependencies_digest"%jˇÄÈDB»5Æ£Å´‰ÕÄWÒaÖº¯ÇN0œ[»≠::idI"Eb9866d941b6ea40af0dc16394b930c1a0e598a8333aa720e81e21bc7ad017de7;F

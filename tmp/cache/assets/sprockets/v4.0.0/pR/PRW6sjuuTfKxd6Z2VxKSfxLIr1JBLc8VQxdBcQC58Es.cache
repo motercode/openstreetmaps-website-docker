@@ -1,0 +1,46 @@
+{:uriI"ãfile://app/assets/favicons/manifest.json.erb?type=application/json+ruby&id=1070b614b4f8ecedb2fe965299ef5eb6bc01d2de08e2e5815b8568aff166310c:ET:load_pathI"app/assets/favicons;T:filenameI"*app/assets/favicons/manifest.json.erb;T:	nameI"manifest;T:logical_pathI"manifest.json.erb;T:content_typeI"application/json+ruby;T:sourceI"ø{
+	"name": "OpenStreetMap",
+	"icons": [
+		{
+			"src": "<%= image_path("android-chrome-36x36.png").gsub("/", "\\/") %>",
+			"sizes": "36x36",
+			"type": "image\/png",
+			"density": "0.75"
+		},
+		{
+			"src": "<%= image_path("android-chrome-48x48.png").gsub("/", "\\/") %>",
+			"sizes": "48x48",
+			"type": "image\/png",
+			"density": "1.0"
+		},
+		{
+			"src": "<%= image_path("android-chrome-72x72.png").gsub("/", "\\/") %>",
+			"sizes": "72x72",
+			"type": "image\/png",
+			"density": "1.5"
+		},
+		{
+			"src": "<%= image_path("android-chrome-96x96.png").gsub("/", "\\/") %>",
+			"sizes": "96x96",
+			"type": "image\/png",
+			"density": "2.0"
+		},
+		{
+			"src": "<%= image_path("android-chrome-144x144.png").gsub("/", "\\/") %>",
+			"sizes": "144x144",
+			"type": "image\/png",
+			"density": "3.0"
+		},
+		{
+			"src": "<%= image_path("android-chrome-192x192.png").gsub("/", "\\/") %>",
+			"sizes": "192x192",
+			"type": "image\/png",
+			"density": "4.0"
+		}
+	]
+}
+;T:metadata{
+:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"Jprocessors:type=application/json+ruby&file_type=application/json+ruby;TTI"8file-digest://app/assets/favicons/manifest.json.erb;TTF:charsetI"
+utf-8;F:digest"%^5ENuT+{¸£yÜQ}]k~⁄Eê≥æ#M[éc‹p:lengthiø:environment_versionI"1.0;T:dependencies_digest"%°8ÿØ¥ß∂À∑∏|ô…«Ã∞fxlJß	èû≈+ú±§≥:idI"E1070b614b4f8ecedb2fe965299ef5eb6bc01d2de08e2e5815b8568aff166310c;F

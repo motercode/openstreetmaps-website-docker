@@ -1,0 +1,25 @@
+{:uriI"Ñfile://vendor/assets/iD/iD/locales/nv.json?type=application/json&id=526ef1a657e26c1c00d6ea401f1442a949399c158316b6cd30cb73115a1854b9:ET:load_pathI"vendor/assets/iD;T:filenameI"(vendor/assets/iD/iD/locales/nv.json;T:	nameI"iD/locales/nv;T:logical_pathI"iD/locales/nv.json;T:content_typeI"application/json;T:sourceI"Ú{
+    "nv": {
+        "intro": {
+            "graph": {
+                "block_number": "<value for addr:block_number>",
+                "city": "Three Rivers",
+                "county": "<value for addr:county>",
+                "district": "<value for addr:district>",
+                "hamlet": "<value for addr:hamlet>",
+                "neighbourhood": "<value for addr:neighbourhood>",
+                "postcode": "49093",
+                "province": "<value for addr:province>",
+                "quarter": "<value for addr:quarter>",
+                "state": "MI",
+                "subdistrict": "<value for addr:subdistrict>",
+                "suburb": "<value for addr:suburb>",
+                "countrycode": "us"
+            }
+        }
+    }
+};T:metadata{
+:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"6file-digest://vendor/assets/iD/iD/locales/nv.json;TTF:charsetI"
+utf-8;F:digest"%;‚ß˜:dÍx9Éi;!:Õa≥Êﬂ∏ñ¡øé˚@w∏û:lengthiÚ:environment_versionI"1.0;T:dependencies_digest"%7PÇ1~í—nrµMÛ¯Qwµæ›6ê;LDÎ‡c$.:idI"E526ef1a657e26c1c00d6ea401f1442a949399c158316b6cd30cb73115a1854b9;F

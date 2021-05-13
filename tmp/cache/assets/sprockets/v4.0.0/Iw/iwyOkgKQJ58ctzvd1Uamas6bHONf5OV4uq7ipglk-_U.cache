@@ -1,0 +1,24 @@
+{:uriI"Öfile://vendor/assets/iD/iD/locales/gan.json?type=application/json&id=fcdbdfa4cca4eaa26e21ec4da108c6106a2c77ef2bf118cc23378475bf216a6b:ET:load_pathI"vendor/assets/iD;T:filenameI")vendor/assets/iD/iD/locales/gan.json;T:	nameI"iD/locales/gan;T:logical_pathI"iD/locales/gan.json;T:content_typeI"application/json;T:sourceI"∫{
+    "gan": {
+        "intro": {
+            "graph": {
+                "block_number": "<value for addr:block_number>",
+                "county": "<value for addr:county>",
+                "district": "<value for addr:district>",
+                "hamlet": "<value for addr:hamlet>",
+                "neighbourhood": "<value for addr:neighbourhood>",
+                "province": "<value for addr:province>",
+                "quarter": "<value for addr:quarter>",
+                "state": "<value for addr:state>",
+                "subdistrict": "<value for addr:subdistrict>",
+                "suburb": "<value for addr:suburb>",
+                "countrycode": "cn"
+            }
+        }
+    }
+};T:metadata{
+:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"7file-digest://vendor/assets/iD/iD/locales/gan.json;TTF:charsetI"
+utf-8;F:digest"%÷LF23ïÕ`"¶ÎFl€Â]<∏/`4òLÁê
+:lengthi∫:environment_versionI"1.0;T:dependencies_digest"%ÚËf÷9/x¬UÑBk¢Hpàû¸Ã´—“íÇ[}yg:idI"Efcdbdfa4cca4eaa26e21ec4da108c6106a2c77ef2bf118cc23378475bf216a6b;F

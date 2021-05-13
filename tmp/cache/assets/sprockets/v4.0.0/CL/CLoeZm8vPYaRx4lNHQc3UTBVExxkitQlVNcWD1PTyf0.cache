@@ -1,0 +1,26 @@
+{:uriI"�file://vendor/assets/iD/iD/locales/my.json?type=application/json&id=c3f7aae14b3308a233366baef010074d75edfcbff3925f9e69dc4c3ff5b9a1aa:ET:load_pathI"vendor/assets/iD;T:filenameI"(vendor/assets/iD/iD/locales/my.json;T:	nameI"iD/locales/my;T:logical_pathI"iD/locales/my.json;T:content_typeI"application/json;T:sourceI"�{
+    "my": {
+        "icons": {
+            "download": "ဒေါင်းလုဒ်လုပ်ရန်",
+            "information": "ပြန်ကြားမှုများ",
+            "remove": "ဖျက်ရန်",
+            "undo": "နောက်ပြန်ဆုတ်ရန်",
+            "zoom_to": "ပြူးကြည့်မည့်နေရာ။ ။",
+            "copy": "မိတ္တူကူးရန်",
+            "view_on": "{domain} ပေါ်ကြည့်ရန်",
+            "list": "စာရင်း",
+            "text": "စာသား",
+            "deselect": "မရွေးချယ်တော့ရန်"
+        },
+        "toolbar": {
+            "inspect": "စစ်ဆေးရန်",
+            "undo_redo": "နောက်/ရှေ့သွားရန်",
+            "recent": "ယခုလတ်တလော",
+            "favorites": "ချစ်ဖွယ်မှုများ"
+        }
+    }
+};T:metadata{
+:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"6file-digest://vendor/assets/iD/iD/locales/my.json;TTF:charsetI"
+utf-8;F:digest"%N�K�բ1Y,��@�G�D�A W�)q��i����:lengthi�:environment_versionI"1.0;T:dependencies_digest"%���`����AкFD%��>�+���'t:idI"Ec3f7aae14b3308a233366baef010074d75edfcbff3925f9e69dc4c3ff5b9a1aa;F
