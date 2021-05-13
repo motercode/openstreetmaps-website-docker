@@ -45,3 +45,14 @@ More details on contributing to the code are in the [CONTRIBUTING.md](CONTRIBUTI
 
 * Tom Hughes [@tomhughes](https://github.com/tomhughes/)
 * Andy Allan [@gravitystorm](https://github.com/gravitystorm/)
+
+recuerda que debes crear en config/ el database.yml conforme a esto # Using a recent release (9.1 or higher) of PostgreSQL (http://postgresql.org/) is recommended.
+# See https://github.com/openstreetmap/openstreetmap-website/blob/master/INSTALL.md#database-setup for detailed setup instructions.
+#
+development:
+  adapter: postgresql
+  database: openstreetmaps
+  username: 
+  password: 
+  host: 192.168.1.180
+  encoding: utf8
